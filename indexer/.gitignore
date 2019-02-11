@@ -1,0 +1,4 @@
+#objects and libraries
+*.o
+*.a
+core
